@@ -116,3 +116,35 @@ h1, h2, h3, h4, h5, h6{
   z-index:  0;
   font-family: 'Playfair Display', serif;
 }
+
+
+/*REV SECTION STARTS HERE*/
+
+.review-back{
+  background-image: url('../img/food_review.jpg');
+  height: 450px;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.fresno-bee{
+  background-color: rgba(0, 0, 0, .5);
+  height: 200px;
+  position absolute;
+  z-index: 1;
+  margin-top: 120px;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.fresno-bee h1{
+  font-size: 4.5em;
+  text-shadow: 1px 1px #000;
+}
+
+#ever-ate{
+  color: white;
+  font-size: 1.5em;
+  text-shadow: 1px 1px #000;
+}
