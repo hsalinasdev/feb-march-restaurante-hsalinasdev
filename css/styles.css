@@ -131,6 +131,7 @@ h1, h2, h3, h4, h5, h6{
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+
 }
 
 #review-background{
@@ -138,6 +139,7 @@ h1, h2, h3, h4, h5, h6{
     margin-top: 163px;
     padding: 10px 0px;
     text-shadow: 1px 1px #000;
+    border-radius: 5px;
 }
 
 #review-background h3{
